@@ -1,0 +1,25 @@
+hidden directories begin with a dot
+  ls -a will show all files
+
+repo is “clean” when everything is tracked / committed
+
+write commit comments in present tense
+
+Parts of a Commit:
+1. Timestamp
+2. Message / Description
+3. Lines / files changed
+4. Author
+5. Unique identifier
+
+HEAD is a label that points to the most recent commit
+
+Key Pair - lets you authenticate yourself without a password
+
+pbcopy - clipboard command
+
+git remote -v   view remotes
+
+git remote set-url nameOfRemote newURLOfRemote  - change url of remote
+
+

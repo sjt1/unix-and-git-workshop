@@ -1,0 +1,36 @@
+Unix Features:
+All Data in plaintext files
+Many small programs
+input-output redirection - can combine the small programs to accomplish complex tasks instead of writing one big program.
+
+Unix philosophy:  be lazy
+never retype same command
+
+Keep lines to less than 80 characters
+
+use “which” to find the file and verify it exists
+
+path address location are all synonymous
+
+-t shows you which files were modified last
+
+-r reverses order
+
+verify truth with -l
+
+ctrl c - stops rapid scrolling
+
+\ is an escape character in unix - can use instead of quotes for spaces
+
+Make files all lower case by default
+Don’t use spaces - use underscore or dashes
+
+# is the comment command for all shells
+
+less - a pager
+
+: tells you you’re in pager mode
+
+use / to search
+
+every output can become the input of another program
